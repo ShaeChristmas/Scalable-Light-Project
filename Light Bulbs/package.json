@@ -1,0 +1,15 @@
+{
+  "name": "light-bulbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaine Christmas",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.10",
+    "mqtt": "^4.2.8"
+  }
+}
